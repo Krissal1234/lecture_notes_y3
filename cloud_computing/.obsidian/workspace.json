@@ -13,13 +13,74 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Kubernetes.md",
+                "file": "Kubernetes yt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b431c766e98157a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kubernetes yt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "65a2b07905f110a0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Kubernetes yt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a328d85d0920b9af",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "What is Helm.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9af92f09282425c7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "k8s class notes.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "55b56548d8b0ea12",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "class notes Edge security.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -80,35 +141,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "869bc5c882509f72",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Kubernetes.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
-            "id": "5508db2d176a0c75",
-            "type": "leaf",
-            "state": {
-              "type": "outgoing-link",
-              "state": {
-                "file": "Kubernetes.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "ea5918ff02e90ba1",
             "type": "leaf",
             "state": {
@@ -125,7 +157,36 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Kubernetes.md"
+                "file": "class notes Edge security.md"
+              }
+            }
+          },
+          {
+            "id": "d9b2ca265afeee60",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "class notes Edge security.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "13632f78af91f20e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "class notes Edge security.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           }
@@ -146,8 +207,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "eca2ee17cf4f6112",
+  "active": "55b56548d8b0ea12",
   "lastOpenFiles": [
-    "Kubernetes.md"
+    "Pasted image 20240512205534.png",
+    "Pasted image 20240512200743.png",
+    "Pasted image 20240512200139.png",
+    "Pasted image 20240512195921.png",
+    "Pasted image 20240512195713.png",
+    "k8s class notes.md",
+    "class notes Edge security.md",
+    "Storage.md",
+    "kubernetes yt node application.md",
+    "Kubernetes yt.md",
+    "What is Helm.md",
+    "Pasted image 20240509182211.png",
+    "Pasted image 20240509180717.png",
+    "Pasted image 20240509180443.png",
+    "Pasted image 20240509180259.png",
+    "Pasted image 20240509175939.png",
+    "Pasted image 20240509171741.png"
   ]
 }

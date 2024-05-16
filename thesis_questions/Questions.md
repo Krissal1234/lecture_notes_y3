@@ -12,8 +12,27 @@ i have adam vs SGD optimiser however,, the best models dont have good looking tr
 
 maybe take a look at training history, see if we can come up with things to say for the models
 
+
+---
 figure out which models to use to evaluate effect on feature extraction
 - also what do i do about pca when testing:
 	- Since i have three main variables: pca, feature extraction, augmentation, 
-
+-both bilstms
 should i have a limitations section
+- yes in the evaluation
+
+future work
+- addressing limitations as one of them, e.g. larger sequence lenght
+- improving on teh video analysis pipeline
+
+- explain more on data augnentation in implementation
+	- e.g. they were empirically derived, sya i tried multiple
+
+limitation mention expensive pipeline
+
+
+try pca and without pca
+
+show that pca gives comparable performance
+
+

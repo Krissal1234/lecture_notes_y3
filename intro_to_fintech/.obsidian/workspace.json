@@ -13,27 +13,62 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "Game Theory.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "c2b136ceec2ee53a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes for assignment.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "aa7f6532c555ee02",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Payments.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "449c3754fbb6b2ce",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI in Fintech.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "4f4fbbdcf3c2d020",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "stocks.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
-      },
-      {
-        "id": "5d98bb6ce131fed7",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "ef5ab892b28c9b4e",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -99,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Welcome.md",
+                "file": "stocks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Welcome.md",
+                "file": "stocks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Welcome.md"
+                "file": "stocks.md"
               }
             }
           }
@@ -160,8 +195,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "53e6feac60c615c1",
+  "active": "4f4fbbdcf3c2d020",
   "lastOpenFiles": [
-    "Welcome.md"
+    "Pasted image 20240516170953.png",
+    "Pasted image 20240516165230.png",
+    "Pasted image 20240516164520.png",
+    "Pasted image 20240516164353.png",
+    "Pasted image 20240516163727.png",
+    "Pasted image 20240516163706.png",
+    "AI in Fintech.md",
+    "stocks.md",
+    "Payments.md",
+    "Game Theory.md",
+    "notes for assignment.md"
   ]
 }
