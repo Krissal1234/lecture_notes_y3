@@ -25,14 +25,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Graphics 02 Illumination.md",
+                "file": "Introduction.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ded4580676e5ccd6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "PolyRay.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f3d95621a29dc6c3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "eBook concepts.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -99,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Graphics 02 Illumination.md",
+                "file": "eBook concepts.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Graphics 02 Illumination.md",
+                "file": "eBook concepts.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Graphics 02 Illumination.md"
+                "file": "eBook concepts.md"
               }
             }
           }
@@ -160,17 +184,23 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "13f5974500887936",
+  "active": "f3d95621a29dc6c3",
   "lastOpenFiles": [
-    "Pasted image 20240428144719.png",
+    "Pasted image 20240519142547.png",
+    "Pasted image 20240519142449.png",
+    "Pasted image 20240519142444.png",
+    "Pasted image 20240519142429.png",
+    "Pasted image 20240519130349.png",
+    "Pasted image 20240519130333.png",
+    "Pasted image 20240519130319.png",
+    "Pasted image 20240519130034.png",
+    "Pasted image 20240519121802.png",
+    "Pasted image 20240519120332.png",
+    "Pasted image 20240519111648.png",
     "Graphics 02 Illumination.md",
+    "eBook concepts.md",
+    "PolyRay.md",
     "Introduction.md",
-    "Pasted image 20240428140754.png",
-    "Pasted image 20240428125742.png",
-    "Pasted image 20240428125423.png",
-    "Pasted image 20240428125113.png",
-    "Pasted image 20240428125109.png",
-    "Pasted image 20240428123343.png",
-    "Pasted image 20240428123114.png"
+    "pictures"
   ]
 }

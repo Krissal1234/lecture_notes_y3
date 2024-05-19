@@ -30,9 +30,33 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "4a3331096e983d1d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Security Functions.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dd78bc34cf50414c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "secret history of hacking.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -82,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "3dcd47e8b2b99481",
@@ -99,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Paper on Port Scanning Techniques.md",
+                "file": "secret history of hacking.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -116,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Paper on Port Scanning Techniques.md",
+                "file": "secret history of hacking.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -139,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Paper on Port Scanning Techniques.md"
+                "file": "secret history of hacking.md"
               }
             }
           }
@@ -160,16 +183,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f31137f3454a8065",
+  "active": "dd78bc34cf50414c",
   "lastOpenFiles": [
+    "Security Functions.md",
+    "secret history of hacking.md",
+    "Encryption.md",
+    "Paper on Port Scanning Techniques.md",
     "Do's and Don'ts of Machine Learning in Computer Security.md",
     "Untitled",
-    "Paper on Port Scanning Techniques.md",
     "images/Pasted image 20240426112557.png",
     "images/Pasted image 20240425194155.png",
     "images",
     "images/Pasted image 20240425194159.png",
-    "Security Functions.md",
     "images/Pasted image 20240426112556.png",
     "images/Pasted image 20240425195117.png"
   ]
