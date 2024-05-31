@@ -8,18 +8,43 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a0c9576d28076d51",
+            "id": "7b8793afde48a734",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Meli notes/Wel.md",
+                "file": "staines/SERIM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "74cbbda0b8336239",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Meli notes/Lecture notes 9 - Socket security.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "cbc9a4e3dbc168be",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "staines/revision.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Meli notes/Wel.md",
+                "file": "Meli notes/Lecture notes 9 - Socket security.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Meli notes/Wel.md",
+                "file": "Meli notes/Lecture notes 9 - Socket security.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Meli notes/Wel.md"
+                "file": "Meli notes/Lecture notes 9 - Socket security.md"
               }
             }
           }
@@ -133,8 +158,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,9 +170,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a0c9576d28076d51",
+  "active": "74cbbda0b8336239",
   "lastOpenFiles": [
-    "Meli notes",
-    "Meli notes/Wel.md"
+    "Meli notes/Lecture 6 threat modelling.md",
+    "Meli notes/How sockets work.md",
+    "staines/SERIM.md",
+    "staines/revision.md",
+    "Meli notes/NET slides part 2.md",
+    "Meli notes/Lecture notes 10.md",
+    "Meli notes/Lecture notes 9 - Socket security.md",
+    "Meli notes/Lecture notes 8.md",
+    "Meli notes/Lecture notes 3.md",
+    "Meli notes/Lecture 7.md",
+    "Meli notes/revision.md",
+    "Pasted image 20240530152349.png",
+    "staines/Intro to quality.md",
+    "staines/IS quality 1.md",
+    "Pasted image 20240530144941.png",
+    "Meli notes/Wel.md",
+    "Pasted image 20240530135557.png",
+    "Pasted image 20240530135554.png",
+    "Pasted image 20240527155413.png",
+    "Pasted image 20240526160122.png",
+    "Pasted image 20240526155959.png",
+    "Pasted image 20240526155333.png",
+    "Pasted image 20240526155331.png",
+    "Pasted image 20240526154127.png",
+    "Meli notes/Web app defence.md",
+    "Meli notes/Securing web apps.md",
+    "pics",
+    "staines",
+    "Meli notes"
   ]
 }

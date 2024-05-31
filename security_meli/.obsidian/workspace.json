@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d8d288a323a0fa75",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "revision.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "secret history of hacking.md",
+                "file": "revision.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "secret history of hacking.md",
+                "file": "revision.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "secret history of hacking.md"
+                "file": "revision.md"
               }
             }
           }
@@ -183,10 +195,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dd78bc34cf50414c",
+  "active": "d8d288a323a0fa75",
   "lastOpenFiles": [
-    "Security Functions.md",
     "secret history of hacking.md",
+    "revision.md",
+    "Security Functions.md",
     "Encryption.md",
     "Paper on Port Scanning Techniques.md",
     "Do's and Don'ts of Machine Learning in Computer Security.md",

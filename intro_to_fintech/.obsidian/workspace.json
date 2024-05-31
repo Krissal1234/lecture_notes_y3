@@ -4,71 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "11cc797be824f2e4",
+        "id": "b80c3c078143a19b",
         "type": "tabs",
         "children": [
           {
-            "id": "53e6feac60c615c1",
+            "id": "2409c5da51c44374",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Game Theory.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c2b136ceec2ee53a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes for assignment.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "aa7f6532c555ee02",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Payments.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "449c3754fbb6b2ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AI in Fintech.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "4f4fbbdcf3c2d020",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "stocks.md",
+                "file": "Cryptography.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -129,29 +80,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "391dd24ce7f299c3",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "stocks.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              }
-            }
-          },
-          {
             "id": "072774c455b4a8f7",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "stocks.md",
+                "file": "Cryptography.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +108,24 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "stocks.md"
+                "file": "Cryptography.md"
+              }
+            }
+          },
+          {
+            "id": "fa974cca3e32824f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Cryptography.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
               }
             }
           }
@@ -182,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,18 +145,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "4f4fbbdcf3c2d020",
+  "active": "2409c5da51c44374",
   "lastOpenFiles": [
-    "Pasted image 20240516170953.png",
-    "Pasted image 20240516165230.png",
-    "Pasted image 20240516164520.png",
-    "Pasted image 20240516164353.png",
-    "Pasted image 20240516163727.png",
-    "Pasted image 20240516163706.png",
-    "AI in Fintech.md",
-    "stocks.md",
-    "Payments.md",
     "Game Theory.md",
-    "notes for assignment.md"
+    "AI in fintech.md",
+    "Payments.md",
+    "Cryptography.md",
+    "Blockchain.md",
+    "CrowdFunding, openAPIs payments.md",
+    "pics/Pasted image 20240522154627.png",
+    "AI in Fintech.md",
+    "notes for assignment.md",
+    "Pasted image 20240528151756.png",
+    "Pasted image 20240528151720.png",
+    "Pasted image 20240528151636.png",
+    "pics/Pasted image 20240521150039.png",
+    "Algo trading/stocks.md",
+    "Pasted image 20240524211922.png",
+    "Pasted image 20240524211538.png",
+    "Pasted image 20240524211246.png",
+    "Pasted image 20240524211214.png",
+    "Pasted image 20240524210822.png",
+    "Algo trading/Lecture 3.md",
+    "Untitled.md",
+    "Algo trading",
+    "pics"
   ]
 }

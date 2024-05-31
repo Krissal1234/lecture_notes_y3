@@ -75,6 +75,9 @@ Clothing problems
 
 ![[Pasted image 20240518150242.png|400]]
 
+Coordinate systems are used to specify the position and orientation of objects in a virtual space
+
+
 Conventionally a right-handed coordinate system is used in computer graphics theory, however in practical usage one might prefer to use a left-
 handed system (this is done by Polyray, for instance). The z-axis can be
 thought of as receding out of the page.
@@ -134,8 +137,8 @@ The text describes different illumination models used in computer graphics to de
 - **Diffuse, Non-Directional Light**:
     - Ambient light is considered a product of multiple reflections from surfaces in the environment, creating a uniform light source.
     - The illumination equation I=IakaI=Ia​ka​ describes the effect of ambient light on the object's surface:
-        - IaIa​ (ambient light intensity) is constant for all objects.
-        - kaka​ (ambient-reflection coefficient) characterizes how much ambient light is reflected by the surface.
+        - Ia​ (ambient light intensity) is constant for all objects.
+        - ka​ (ambient-reflection coefficient) characterizes how much ambient light is reflected by the surface.
     - **Coefficient kaka​**:
         - A material property that determines the amount of ambient light reflected. Values range from 0 (no reflection) to 1 (full reflection).
         - It is an empirical value and doesn't directly correspond to any specific physical property of materials.
